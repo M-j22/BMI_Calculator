@@ -1,4 +1,3 @@
-// ignore_for_file: prefer_const_constructors
 import 'screens/input_page.dart';
 import 'package:flutter/material.dart';
 
